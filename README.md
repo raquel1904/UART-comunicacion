@@ -2,6 +2,7 @@
 
 # Documentos
 TX_1 y TB_TX1 : Código VHDL principal y testbench para la simulación del transmisor UART
+
 RX2 y TB_RX2 : Código VHDL principal y testbench para la simulación del receptor UART
 
 # About
