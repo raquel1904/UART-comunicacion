@@ -1,6 +1,8 @@
 # UART-comunicacion
 
 # Documentos
+TX_1 y TB_TX1 : Código VHDL principal y testbench para la simulación del transmisor UART
+RX2 y TB_RX2 : Código VHDL principal y testbench para la simulación del receptor UART
 
 # About
 El UART (Universal Asynchronous Receiver/Transmitter ) es usado ampliamente para comunicar a dos dispositivos y puede trabajar con distintos protocolos de comunicación. En el puerto se tienen 2 entradas, Tx y Rx, una es para transmisión y otra para recepción respectivamente, por lo cual es de gran ventaja ya que sólo requiere el uso de dos cables para transmitir y recibir datos.
